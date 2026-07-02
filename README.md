@@ -1,90 +1,182 @@
 <p align="center">
-  <img src="tradeplot-banner-v2.svg" alt="TradePlot Banner" width="100%" />
+  <img src="tradeplot-banner-v2.svg" alt="TradePlot Banner" width="100%">
 </p>
+
+<div align="center">
+
 # TradePlot
 
-**Win the Day with TradePlot.**
+### AI-Powered Trading Intelligence
 
-TradePlot is an AI-powered trading intelligence platform built to help traders find structure, build discipline, and improve execution.
+Analyze. Learn. Execute.
 
-It is designed for traders who need direction, struggle with consistency, or do not know which strategy/system to trust.
+TradePlot is an AI trading platform that helps traders improve discipline, understand market structure, and make higher-quality trading decisions through AI coaching, visual chart analysis, and personalized performance tracking.
+
+**Built with Next.js • TypeScript • Supabase • Stripe • OpenAI**
+
+</div>
 
 ---
 
-## Core Features
+# Overview
 
-- AI chart screenshot analysis
-- Strategy-based setup breakdowns
-- Market/timeframe context
-- AI chart plotting
-- Personal AI coach
-- Execution journal
-- Emotional discipline tracking
+TradePlot combines chart analysis, execution coaching, psychology tracking, and structured learning into a single platform.
+
+Instead of giving buy or sell signals, TradePlot teaches traders **how to think**.
+
+---
+
+# Features
+
+### 📊 AI Chart Analysis
+
+- Screenshot upload
+- AI chart interpretation
+- Context-aware coaching
+- Multi-timeframe analysis
+- Strategy-specific breakdowns
+
+---
+
+### 🧠 AI Coach
+
+- Personalized AI mentor
+- Custom coach personality
+- Daily execution coaching
+- Emotional check-ins
+- Discipline tracking
+
+---
+
+### 📚 Strategy Library
+
+- ICT
+- Supply & Demand
+- Break & Retest
+- Liquidity Sweeps
+- Order Blocks
+- Market Structure
+- Psychology
+
+---
+
+### 📈 Performance Tracking
+
+- Trade journal
+- Win rate tracking
+- Discipline Score
 - Trade DNA
-- Strategy library
-- Chart folders and upload history
-- Supabase authentication and persistence
-- Stripe subscription foundation
+- Emotional trends
+- AI reflections
 
 ---
 
-## Sections
+# Tech Stack
 
-### Dashboard
-A personal trading hub with daily coaching, recent analysis, TradePoints, notifications, and performance summaries.
-
-### Analyze
-Upload a chart screenshot, choose market/timeframe/strategy, and receive an AI coaching breakdown.
-
-### Coach
-Personalize your AI coach, complete emotional check-ins, track discipline, and build better execution habits.
-
-### Learn
-Study strategies, common mistakes, timeframes, market behavior, and setup recognition.
-
-### Profile
-Manage uploads, folders, visibility, settings, and trading identity.
+| Frontend | Backend | AI | Infrastructure |
+|----------|----------|----|----------------|
+| Next.js | Supabase | OpenAI | Vercel |
+| TypeScript | PostgreSQL | Vision Models | GitHub |
+| Tailwind CSS | Auth | AI Coaching | Stripe |
 
 ---
 
-## Tech Stack
-
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Supabase
-- OpenAI Vision
-- Stripe
-- Vercel
-
----
-
-# Screenshots
+# Application Preview
 
 ## Landing Page
-![Landing Page](assets/screenshots/Landing%20page.png)
 
-## Dashboard
-![Dashboard](assets/screenshots/Dashboard.png)
-
-## Analyze
-![Analyze](assets/screenshots/Before%20analysis.png)
-
-## Complete Analysis
-![Complete Analysis](assets/screenshots/Complete%20analysis.png)
-
-## Analysis Details
-![Analysis Details](assets/screenshots/Analysis%20details.png)
-
-## AI Coach
-![AI Coach](assets/screenshots/Coach%201.png)
-
-## Coach Customization
-![Coach Customization](assets/screenshots/Coach%202.png)
-
-## Strategy Library
-![Strategy Library](assets/screenshots/Learn.png)
+![](Landing%20page.png)
 
 ---
 
-## Disclaimer
+## Dashboard
+
+![](Dashboard.png)
+
+---
+
+## Analyze Chart
+
+![](Before%20analysis.png)
+
+---
+
+## Complete Analysis
+
+![](Complete%20analysis.png)
+
+---
+
+## Detailed Breakdown
+
+![](Analysis%20details.png)
+
+---
+
+## AI Coach
+
+![](Coach%201.png)
+
+---
+
+## Coach Personalization
+
+![](Coach%202.png)
+
+---
+
+## Strategy Library
+
+![](Learn.png)
+
+---
+
+# Current Modules
+
+- Landing Page
+- Authentication
+- Dashboard
+- Analyze
+- AI Coach
+- Learn
+- Strategy Library
+- Upload Manager
+- Performance Tracking
+- Discipline Engine
+- Trade DNA
+- Stripe Billing
+
+---
+
+# Future Roadmap
+
+- AI Voice Coach
+- Mobile Apps
+- Replay Mode
+- Strategy Marketplace
+- Community Challenges
+- Broker Integrations
+- Live Chart Analysis
+- Portfolio Tracking
+- AI Trade Review
+- Journal Intelligence
+
+---
+
+# Disclaimer
+
+TradePlot is an educational platform.
+
+It does **not** provide financial advice, investment recommendations, or guaranteed trading results.
+
+Users remain responsible for all trading decisions.
+
+---
+
+<div align="center">
+
+### Built by Tyler Sheffield
+
+**Trade smarter. Build discipline. Win the day.**
+
+</div>
